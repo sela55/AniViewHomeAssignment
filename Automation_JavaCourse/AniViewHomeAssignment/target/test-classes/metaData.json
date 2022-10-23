@@ -1,0 +1,8 @@
+{
+  "baseURI" : "https://api.vimeo.com/",
+  "contentType" : "application/json",
+  "authorization" : "bearer 18a03fd3958a4b43087a6541ad839d30",
+  "text" : "Jimmy man!",
+  "videoCode" : "760830321",
+  "username" : "sela555"
+}

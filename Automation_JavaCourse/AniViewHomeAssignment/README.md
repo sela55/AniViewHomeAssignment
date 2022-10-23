@@ -1,4 +1,4 @@
-Home Assingment - README
+Home Assignment - README
 
 In a recent assignment, I serialized JSON files to Java objects using the Java library Jackson.
 
